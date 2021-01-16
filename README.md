@@ -1,10 +1,10 @@
-this is a personal version of a tutorial on youtube thanks to daap university
-Just saving it on github fo to play around with for later
+This is a personal version of a tutorial on youtube thanks to daap university
+Just saving it on github for to play around with later
 
 youtube video:
 https://www.youtube.com/watch?v=XLahq4qyors&list=WL&index=22&t=8533s
 
-soruce:
+their link:
 https://www.dappuniversity.com/bootcamp
 
 actual tutorial code from the source:
